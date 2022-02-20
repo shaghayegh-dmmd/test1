@@ -9,3 +9,6 @@ h3{
 p{
     column-rule: green;
 }
+input{
+    color: yellow;
+}
